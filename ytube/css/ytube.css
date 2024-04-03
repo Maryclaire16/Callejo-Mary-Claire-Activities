@@ -1,0 +1,188 @@
+
+h3 {
+color:white;
+background-color:black;
+left:100px;
+top:100px;
+
+}
+
+.header {
+    background: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;  
+    top: 0px;
+    left:0;
+    width: auto;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border: 10px solid red;
+}
+.static{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: papayawhip;
+    color: purple;
+    padding: 15px;
+   width: 100%;
+}
+.relative {
+    position: relative;
+    left: 50px;
+    bottom: 100px;
+    background-color: papayawhip;
+    color: purple;
+    margin: 5px;
+    padding: 15px;
+    border: 10px solid darkorchid;
+}
+.absolute {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    width: auto;
+    height: auto;
+    background-color: papayawhip;
+    color: purple;
+    padding: 15px;
+    border: 10px solid darkorchid;
+    
+}
+.fixed{
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: papayawhip;
+    color: purple;
+    padding: 15px;
+   width: 100%;
+}
+.boxed{
+    position: fixed;
+    top: 0px;
+    left: 100px;
+    background-color: black;
+    color: white;
+    margin:5px;
+    padding:10px;
+    height: 100px;
+    width;1700px;
+    border: 5px white;
+}
+.box1 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+    left: 1%;
+}
+.box2 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+    left: 20px;
+}
+.box3 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box4 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box5 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box6 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box7 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box8 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box9 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box10 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box11 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box12 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box13 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box14 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
+.box15 {
+    width: 150px;
+    height: 100px;
+    background: black;
+    margin: 10px;
+    justify-content:center;
+}
